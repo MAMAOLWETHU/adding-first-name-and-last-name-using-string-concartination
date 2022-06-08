@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "adding first name and last name using string concartination", "adding first name and last name using string concartination.vcxproj", "{628A4300-05F1-44DA-BF8A-09395610413F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{628A4300-05F1-44DA-BF8A-09395610413F}.Debug|x64.ActiveCfg = Debug|x64
+		{628A4300-05F1-44DA-BF8A-09395610413F}.Debug|x64.Build.0 = Debug|x64
+		{628A4300-05F1-44DA-BF8A-09395610413F}.Debug|x86.ActiveCfg = Debug|Win32
+		{628A4300-05F1-44DA-BF8A-09395610413F}.Debug|x86.Build.0 = Debug|Win32
+		{628A4300-05F1-44DA-BF8A-09395610413F}.Release|x64.ActiveCfg = Release|x64
+		{628A4300-05F1-44DA-BF8A-09395610413F}.Release|x64.Build.0 = Release|x64
+		{628A4300-05F1-44DA-BF8A-09395610413F}.Release|x86.ActiveCfg = Release|Win32
+		{628A4300-05F1-44DA-BF8A-09395610413F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E4D629A-B67F-42B0-9ACE-10C17121FB21}
+	EndGlobalSection
+EndGlobal
